@@ -35,7 +35,7 @@ const About = () => {
 
           <div className="relative h-[500px] overflow-hidden rounded-3xl">
             <Image
-              src="https://images.pexels.com/photos/4489703/pexels-photo-4489703.jpeg"
+              src="https://res.cloudinary.com/dcwouacgz/image/upload/v1785299449/WhatsApp_Image_2026-07-28_at_10.22.54_AM_on2xng.jpg"
               alt="Workshop"
               fill
               className="object-cover"
