@@ -7,7 +7,7 @@ const About = () => {
         {/* Image */}
         <div>
           <img
-            src="/about-workshop.jpg"
+            src="https://res.cloudinary.com/dcwouacgz/image/upload/v1785296179/premiumBikeService/gallery/rexnh2lm24j100ypy8uh.jpg"
             alt="Inside the workshop"
             className="h-[500px] w-full rounded-2xl object-cover"
           />

@@ -3,21 +3,21 @@ import React from "react";
 const projects = [
   {
     id: 1,
-    title: "Yamaha R15 Full Service",
+    title: "Sample Bike",
     category: "Maintenance",
-    image: "/projects/project-1.jpg",
+    image: "https://res.cloudinary.com/dcwouacgz/image/upload/v1785299877/WhatsApp_Image_2026-07-28_at_4.21.05_PM_wamblc.jpg",
   },
   {
     id: 2,
-    title: "Honda CBR Engine Rebuild",
+    title: "Sample Bike",
     category: "Engine Repair",
-    image: "/projects/project-2.jpg",
+    image: "https://res.cloudinary.com/dcwouacgz/image/upload/v1785299877/WhatsApp_Image_2026-07-28_at_4.20.55_PM_fhuhe1.jpg",
   },
   {
     id: 3,
-    title: "Suzuki Gixxer Ceramic Detail",
+    title: "Sample Bike",
     category: "Detailing",
-    image: "/projects/project-3.jpg",
+    image: "https://res.cloudinary.com/dcwouacgz/image/upload/v1785234161/WhatsApp_Image_2026-07-28_at_4.20.53_PM_de2g3q.jpg",
   },
 ];
 

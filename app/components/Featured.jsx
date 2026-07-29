@@ -21,7 +21,7 @@ const Featured = () => {
           {/* Image */}
           <div className="overflow-hidden">
             <img
-              src="/projects/featured.jpg"
+              src="https://res.cloudinary.com/dcwouacgz/image/upload/v1785299449/WhatsApp_Image_2026-07-28_at_10.22.54_AM_on2xng.jpg"
               alt="Featured motorcycle project"
               className="h-full w-full object-cover transition duration-700 hover:scale-105"
             />

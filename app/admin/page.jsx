@@ -89,7 +89,7 @@ export default function AdminDashboard() {
 
         <div className="grid gap-6 md:grid-cols-3">
           <Link
-            href="/admin/gallery"
+            href="/admin/manageGallery"
             className="group rounded-3xl bg-zinc-900 p-8 text-white transition hover:-translate-y-1"
           >
             <Upload className="mb-8 h-10 w-10" />

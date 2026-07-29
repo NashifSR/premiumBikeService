@@ -14,7 +14,7 @@ const products = [
     price: "৳ 8,500",
     directPrice: "৳ 8,000",
     image:
-      "https://images.pexels.com/photos/163210/pexels-photo-163210.jpeg",
+      "https://res.cloudinary.com/dcwouacgz/image/upload/v1769568324/samples/ecommerce/accessories-bag.jpg",
     daraz: "#",
   },
   {

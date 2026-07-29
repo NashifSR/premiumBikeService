@@ -33,13 +33,14 @@ const Hero = () => {
         {/* Right Image */}
         <div className="w-full max-w-2xl">
           <img
-            src="/hero-bike.jpg"
+            src="https://res.cloudinary.com/dcwouacgz/image/upload/v1785234161/WhatsApp_Image_2026-07-28_at_4.20.52_PM_1_y5wewe.jpg"
             alt="Motorcycle in workshop"
             className="h-[600px] w-full rounded-2xl object-cover shadow-xl"
           />
         </div>
       </div>
     </section>
+    
   );
 };
 

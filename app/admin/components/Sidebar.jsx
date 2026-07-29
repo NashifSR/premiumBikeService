@@ -19,8 +19,8 @@ const links = [
     icon: LayoutDashboard,
   },
   {
-    name: "Gallery",
-    href: "/admin/gallery",
+    name: "Manage Gallery",
+    href: "/admin/manageGallery",
     icon: Image,
   },
   {

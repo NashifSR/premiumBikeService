@@ -1,31 +1,21 @@
+import AuthGuard from "../Context/AuthGuard";
 import Sidebar from "./components/Sidebar";
 import Topbar from "./components/Topbar";
 
-
-export const metadata = {
-  title: "Admin Dashboard",
-};
-
 export default function AdminLayout({ children }) {
   return (
-    <div className="flex min-h-screen bg-zinc-100">
+    <AuthGuard>
+      <div className="flex min-h-screen bg-zinc-100">
+        <Sidebar />
 
-      {/* Sidebar */}
-      <Sidebar />
+        <div className="flex flex-1 flex-col">
+          <Topbar />
 
-      {/* Main Content */}
-      <div className="flex flex-1 flex-col">
-
-        {/* Top Navigation */}
-        <Topbar />
-
-        {/* Page Content */}
-        <main className="flex-1 overflow-y-auto p-8">
-          {children}
-        </main>
-
+          <main className="flex-1 overflow-y-auto p-8">
+            {children}
+          </main>
+        </div>
       </div>
-
-    </div>
+    </AuthGuard>
   );
 }
