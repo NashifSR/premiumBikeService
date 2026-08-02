@@ -1,0 +1,1640 @@
+[
+  {
+    "category": "macro-check",
+    "title": "Check for major economic news",
+    "description": "Check today's economic calendar for high-impact events that could cause significant volatility.",
+    "advice": "Focus on interest-rate decisions, CPI, employment reports, GDP, PCE, central-bank events, and other high-impact releases.",
+    "link": "https://www.forexfactory.com/calendar"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check whether news affects my pair",
+    "description": "Identify whether upcoming economic events directly affect either currency in your trading pair.",
+    "advice": "For EUR/USD, pay close attention to major EUR and USD events. For GBP/JPY, focus on GBP and JPY events.",
+    "link": "https://www.forexfactory.com/calendar"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check the timing of major news",
+    "description": "Determine whether important news is scheduled before, during, or shortly after your planned trading window.",
+    "advice": "Know exactly when the release happens before planning an entry. Avoid entering immediately before major releases unless your strategy specifically accounts for them.",
+    "link": "https://www.forexfactory.com/calendar"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check Actual vs Forecast",
+    "description": "Compare the released economic figure with the market's expected forecast.",
+    "advice": "A significant difference between Actual and Forecast can create strong volatility. Observe price reaction instead of assuming the result automatically determines direction.",
+    "link": "https://tradingeconomics.com/calendar"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check Previous vs Actual",
+    "description": "Compare the latest economic reading with the previous reading to understand whether conditions are improving or deteriorating.",
+    "advice": "Consider Previous, Forecast, and Actual together rather than relying on a single number.",
+    "link": "https://tradingeconomics.com/calendar"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check the market reaction",
+    "description": "Observe how price actually responds to economic news instead of relying only on the headline.",
+    "advice": "Watch price action, volatility, momentum, and structure after the release. The reaction can differ from what the economic number appears to suggest.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check DXY",
+    "description": "Review the US Dollar Index when trading USD-related pairs.",
+    "advice": "Use DXY to understand broader USD strength or weakness and compare its behavior with your USD pair.",
+    "link": "https://www.tradingview.com/symbols/TVC-DXY/"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check Gold (XAU/USD)",
+    "description": "Review Gold for additional context about USD behavior, risk sentiment, and safe-haven demand.",
+    "advice": "Use Gold as supporting information rather than treating it as a standalone trading signal.",
+    "link": "https://www.tradingview.com/symbols/XAUUSD/"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check the current trading session",
+    "description": "Identify which major forex session is currently active and how that may affect market activity.",
+    "advice": "London and New York sessions generally provide more activity for many major pairs. Consider whether your chosen pair is normally active during the current session.",
+    "link": "https://www.forex.com/en/market-analysis/latest-research/forex-market-hours/"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check liquidity",
+    "description": "Determine whether there is enough market participation for normal price movement and execution.",
+    "advice": "Be cautious during unusually quiet periods, session transitions, holidays, or other conditions where liquidity may be reduced.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check the spread",
+    "description": "Review the current bid-ask spread before entering a trade.",
+    "advice": "Compare the current spread with what is normal for your pair. Be cautious when spreads become unusually wide around news or low-liquidity periods.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check for central-bank events",
+    "description": "Identify upcoming interest-rate decisions, monetary-policy statements, press conferences, and major central-bank speeches.",
+    "advice": "Central-bank events can produce large and prolonged moves. Treat them as high-risk macro events.",
+    "link": "https://www.forexfactory.com/calendar"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check for major market holidays",
+    "description": "Determine whether major financial centers are closed or operating with reduced activity.",
+    "advice": "Expect potentially lower liquidity and different market behavior during major holidays.",
+    "link": "https://www.forexfactory.com/calendar"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check for multiple major events",
+    "description": "Look for several important economic releases occurring close together.",
+    "advice": "A cluster of major events can create repeated volatility and make technical analysis less reliable.",
+    "link": "https://www.forexfactory.com/calendar"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check the broader market environment",
+    "description": "Determine whether the broader market environment appears to favor risk-taking or risk reduction.",
+    "advice": "Look at broad market behavior and major assets for context, but avoid building your entire trade thesis around one macro indicator.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check major geopolitical events",
+    "description": "Look for wars, elections, political crises, sanctions, trade disputes, or other events that could rapidly affect currencies and risk sentiment.",
+    "advice": "Be especially cautious when geopolitical developments are actively changing and market reactions are unpredictable.",
+    "link": "https://www.reuters.com/world/"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check bond yields",
+    "description": "Review major government bond yields when they are relevant to your currency analysis.",
+    "advice": "Changes in yields can provide useful context for interest-rate expectations and currency strength, especially for USD pairs.",
+    "link": "https://www.tradingview.com/markets/bonds/"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check risk sentiment",
+    "description": "Determine whether markets currently appear to favor risk-on or risk-off behavior.",
+    "advice": "Compare major equity indexes, currencies, and safe-haven assets to understand the broader risk environment.",
+    "link": "https://www.tradingview.com/markets/"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check volatility conditions",
+    "description": "Determine whether the market is unusually calm or experiencing elevated volatility.",
+    "advice": "High volatility can create larger candles and wider stops, while extremely low volatility can produce slow or choppy conditions.",
+    "link": "https://www.tradingview.com/markets/indices/volatility/"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check for unexpected market shocks",
+    "description": "Look for breaking news or sudden events that are not present on the normal economic calendar.",
+    "advice": "If unexpected news causes abnormal price movement, pause and reassess instead of immediately entering based on the existing setup.",
+    "link": "https://www.reuters.com/markets/"
+  },
+  {
+    "category": "macro-check",
+    "title": "Check whether conditions are tradeable",
+    "description": "Make a final assessment of whether the current macro environment is suitable for continuing your technical analysis.",
+    "advice": "You do not need to trade every market condition. If news, liquidity, volatility, or uncertainty makes the environment unclear, waiting is a valid decision.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Identify the higher-timeframe direction",
+    "description": "Determine whether the market is generally bullish, bearish, or ranging on the higher timeframes.",
+    "advice": "Start with the Daily and 4H charts before moving to lower timeframes. Look at the overall direction rather than individual candles.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Determine bullish or bearish conditions",
+    "description": "Decide whether buyers or sellers currently have greater control of the market.",
+    "advice": "Look for consistent higher highs and higher lows for bullish conditions, or lower highs and lower lows for bearish conditions.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check market structure",
+    "description": "Use swing highs and swing lows to understand the current structural direction.",
+    "advice": "Do not determine bias from one candle. Look at meaningful swing points and how price is developing between them.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check the latest swing high",
+    "description": "Identify the most important recent swing high and observe how price is behaving around it.",
+    "advice": "A break and acceptance above a meaningful swing high can support bullish bias, while rejection can weaken it.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check the latest swing low",
+    "description": "Identify the most important recent swing low and observe how price is behaving around it.",
+    "advice": "A break and acceptance below a meaningful swing low can support bearish bias, while strong rejection can weaken it.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check for higher highs and higher lows",
+    "description": "Determine whether price is creating a sequence of higher highs and higher lows.",
+    "advice": "A consistent sequence supports bullish market structure, but wait for meaningful swings rather than minor market noise.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check for lower highs and lower lows",
+    "description": "Determine whether price is creating a sequence of lower highs and lower lows.",
+    "advice": "A consistent sequence supports bearish market structure, but avoid labeling every small pullback as a new lower high.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check for a ranging market",
+    "description": "Determine whether price is moving sideways between clearly defined support and resistance areas.",
+    "advice": "If neither buyers nor sellers are consistently controlling structure, classify the market as ranging instead of forcing a bullish or bearish bias.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check for trend continuation",
+    "description": "Determine whether the existing trend is still producing valid structure and momentum.",
+    "advice": "Look for healthy pullbacks followed by continuation instead of assuming that every trend will continue indefinitely.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check for possible trend reversal",
+    "description": "Look for evidence that the current directional bias may be losing strength or changing.",
+    "advice": "Watch for structural breaks, failed continuation, strong rejection, and changes in momentum before changing your bias.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check for Break of Structure",
+    "description": "Determine whether price has broken an important structural high or low.",
+    "advice": "A meaningful break can provide evidence of continuation or a potential shift, but distinguish real structural breaks from short-lived liquidity grabs.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check for Change of Character",
+    "description": "Look for an early sign that market behavior may be shifting from the existing trend.",
+    "advice": "Treat a change in behavior as an alert rather than automatic confirmation of a reversal.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check higher-timeframe support",
+    "description": "Determine whether price is approaching or reacting from an important higher-timeframe support area.",
+    "advice": "Strong support can influence bearish setups and may create conditions for a bounce or reversal.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check higher-timeframe resistance",
+    "description": "Determine whether price is approaching or reacting from an important higher-timeframe resistance area.",
+    "advice": "Strong resistance can influence bullish setups and may create conditions for rejection or reversal.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check premium and discount",
+    "description": "Determine whether current price is relatively high or low within a meaningful trading range.",
+    "advice": "For a bullish idea, consider whether price is in a relatively favorable lower portion of the range. For bearish ideas, consider the upper portion.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check moving-average direction",
+    "description": "Use moving averages as supporting information for trend direction and momentum.",
+    "advice": "Look at the slope and relationship of commonly used moving averages rather than using a crossover alone as your bias.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check EMA alignment",
+    "description": "Determine whether short-, medium-, and longer-term EMAs are aligned with the current directional move.",
+    "advice": "Bullish alignment can support a bullish bias and bearish alignment can support a bearish bias, but use structure as the primary context.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check momentum",
+    "description": "Assess whether price is moving with strong directional momentum or losing momentum.",
+    "advice": "Strong momentum can support continuation, while weakening momentum near important levels may warn of a possible reversal.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check volume",
+    "description": "Use volume to understand participation behind important price movements when reliable volume data is available.",
+    "advice": "Compare volume around breakouts, reversals, and major levels rather than interpreting one volume spike in isolation.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check DXY for USD pairs",
+    "description": "Use the US Dollar Index as additional context when forming a bias on USD-related pairs.",
+    "advice": "Compare DXY structure and momentum with your USD pair. Use it as confirmation rather than a standalone directional signal.",
+    "link": "https://www.tradingview.com/symbols/TVC-DXY/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check correlated markets",
+    "description": "Review markets that may provide additional context for the instrument being analyzed.",
+    "advice": "Look for meaningful relationships between your pair and related currencies, commodities, indices, or yields.",
+    "link": "https://www.tradingview.com/markets/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check risk-on or risk-off conditions",
+    "description": "Determine whether broader markets are currently favoring risk-taking or defensive behavior.",
+    "advice": "Use major indices, safe-haven assets, and currency behavior to understand the broader environment.",
+    "link": "https://www.tradingview.com/markets/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check the weekly direction",
+    "description": "Review the weekly chart to understand the broader directional context.",
+    "advice": "The weekly chart can help prevent lower-timeframe analysis from creating a misleading view of the overall market.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check the daily direction",
+    "description": "Use the Daily chart to establish the primary directional context for your trade.",
+    "advice": "Identify the dominant structure, important levels, and current price location before moving to lower timeframes.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check the 4H direction",
+    "description": "Use the 4H chart to refine the higher-timeframe market bias.",
+    "advice": "Look for whether the 4H structure agrees with or contradicts the Daily direction.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Compare multiple timeframes",
+    "description": "Determine whether the major timeframes agree with each other or are showing conflicting signals.",
+    "advice": "When timeframes disagree, recognize the conflict instead of forcing a single directional bias.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check price location",
+    "description": "Determine where current price sits relative to major highs, lows, support, resistance, and trading ranges.",
+    "advice": "The same bullish or bearish pattern can have very different implications depending on where it occurs.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check liquidity above price",
+    "description": "Identify obvious highs and areas where buy-side liquidity may be concentrated.",
+    "advice": "Use liquidity areas as potential targets or reaction zones rather than assuming price must move toward them.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check liquidity below price",
+    "description": "Identify obvious lows and areas where sell-side liquidity may be concentrated.",
+    "advice": "Consider whether nearby lows could act as targets or reaction areas before deciding on directional bias.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Check for conflicting signals",
+    "description": "Identify whether different indicators, timeframes, or market structures are giving contradictory information.",
+    "advice": "When evidence conflicts, reduce confidence in the bias instead of adding more indicators until you get the answer you want.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Define bullish invalidation",
+    "description": "Determine what price action would prove your bullish market bias wrong.",
+    "advice": "Before looking for long entries, identify the structural level or condition that would invalidate the bullish thesis.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Define bearish invalidation",
+    "description": "Determine what price action would prove your bearish market bias wrong.",
+    "advice": "Before looking for short entries, identify the structural level or condition that would invalidate the bearish thesis.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Separate bias from entry",
+    "description": "Recognize that having a bullish or bearish bias does not mean an entry is currently available.",
+    "advice": "Use market bias to determine what direction you prefer, then wait for your separate entry-confirmation process.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Write the current bias",
+    "description": "Clearly state your current market bias before continuing to the next stage of analysis.",
+    "advice": "Write something specific such as Bullish, Bearish, or Neutral/Range, along with the main evidence supporting the decision.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Define the invalidation point",
+    "description": "Record the exact condition that would force you to reconsider your current market bias.",
+    "advice": "A good bias should have a clear reason and a clear condition under which you will abandon it.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "market-bias",
+    "title": "Assign confidence to the bias",
+    "description": "Evaluate how strongly the available evidence supports your current directional view.",
+    "advice": "Use a simple confidence level such as Low, Medium, or High. Do not confuse high confidence with certainty.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Identify the current market structure",
+    "description": "Determine whether the market is trending upward, trending downward, or moving sideways.",
+    "advice": "Start with clear swing points. Avoid defining structure from small candles or random short-term movements.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Mark major swing highs",
+    "description": "Identify the important highs that price has created on the current timeframe.",
+    "advice": "Focus on significant turning points that caused meaningful price movement.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Mark major swing lows",
+    "description": "Identify the important lows that price has created on the current timeframe.",
+    "advice": "Prioritize lows that caused meaningful reactions or directional moves.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check for Higher Highs",
+    "description": "Determine whether price is creating new highs above previous significant highs.",
+    "advice": "A sequence of higher highs supports bullish structure when confirmed by meaningful swing points.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check for Higher Lows",
+    "description": "Determine whether pullbacks are creating lows above previous significant lows.",
+    "advice": "Higher lows show that buyers are defending increasingly higher prices.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check for Lower Highs",
+    "description": "Determine whether rallies are failing below previous significant highs.",
+    "advice": "Lower highs can indicate that sellers are becoming increasingly active.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check for Lower Lows",
+    "description": "Determine whether price is creating new lows below previous significant lows.",
+    "advice": "A sequence of lower lows supports bearish structure when the breaks are meaningful.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Identify the protected high",
+    "description": "Find the high that should remain intact if the current bearish structure is still valid.",
+    "advice": "A meaningful break above a protected high may weaken or invalidate the bearish structural thesis.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Identify the protected low",
+    "description": "Find the low that should remain intact if the current bullish structure is still valid.",
+    "advice": "A meaningful break below a protected low may weaken or invalidate the bullish structural thesis.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check Break of Structure (BOS)",
+    "description": "Determine whether price has broken a significant swing point in the direction of the existing trend.",
+    "advice": "A BOS is more meaningful when the broken level is a clear structural swing rather than minor market noise.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check Change of Character (CHOCH)",
+    "description": "Look for a structural event that may indicate a transition from the current trend to a potential reversal.",
+    "advice": "Treat CHOCH as an early warning rather than automatic confirmation of a complete trend reversal.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check Market Structure Shift (MSS)",
+    "description": "Look for a meaningful change in the sequence of highs and lows that suggests control may be changing.",
+    "advice": "Look for displacement and a meaningful structural break rather than labeling every small reversal as an MSS.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check internal structure",
+    "description": "Analyze the smaller structural movements occurring inside the larger market structure.",
+    "advice": "Internal structure can help refine entries, but do not allow minor movements to override major higher-timeframe structure without evidence.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check external structure",
+    "description": "Identify the larger swing structure controlling the broader market direction.",
+    "advice": "External structure should generally carry more weight than minor internal movements when determining the primary trend.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Compare internal and external structure",
+    "description": "Determine whether the lower-timeframe structure agrees with the larger market structure.",
+    "advice": "A temporary countertrend move does not automatically mean the higher-timeframe trend has reversed.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check impulse and correction",
+    "description": "Separate strong directional movements from corrective price movements.",
+    "advice": "Healthy trends often consist of impulsive moves followed by controlled corrections.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check the strength of the impulse",
+    "description": "Determine whether a structural move has strong momentum or weak movement.",
+    "advice": "Large-bodied candles, strong displacement, and decisive movement can provide stronger structural evidence than slow overlapping candles.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check for displacement",
+    "description": "Look for a strong and decisive price movement that rapidly moves away from an area.",
+    "advice": "Strong displacement can make a structural break more meaningful, especially when it breaks an important swing point.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check for weak structure",
+    "description": "Identify slow, overlapping, or indecisive price action that does not clearly establish direction.",
+    "advice": "When structure is unclear, classify the market as uncertain instead of forcing a trend.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check for consolidation",
+    "description": "Determine whether price is compressing within a relatively narrow range.",
+    "advice": "Consolidation often precedes expansion, but do not assume which direction the breakout will occur.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Mark the current trading range",
+    "description": "Identify the meaningful high and low defining the current range.",
+    "advice": "Use the range to understand where price is located and whether it is near the upper or lower boundary.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check range expansion",
+    "description": "Determine whether price has broken out of the established trading range with meaningful momentum.",
+    "advice": "Look for acceptance and follow-through rather than assuming every temporary break is a genuine breakout.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check failed breakouts",
+    "description": "Identify situations where price breaks a structural level but quickly returns inside the previous range.",
+    "advice": "A failed breakout can provide important information about rejection and trapped traders.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check liquidity sweeps",
+    "description": "Identify when price moves through an obvious high or low before reversing back into the previous structure.",
+    "advice": "A liquidity sweep alone is not confirmation of reversal. Wait for subsequent structural evidence.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check equal highs",
+    "description": "Identify multiple highs forming around a similar price level.",
+    "advice": "Equal highs can become an obvious liquidity area and may be important when evaluating future price movement.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check equal lows",
+    "description": "Identify multiple lows forming around a similar price level.",
+    "advice": "Equal lows can become an obvious liquidity area and may be important when evaluating future price movement.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check multi-timeframe structure",
+    "description": "Compare structure across higher and lower timeframes.",
+    "advice": "Use higher timeframes to understand the dominant structure and lower timeframes to refine the current movement.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check structure around key levels",
+    "description": "Observe how price behaves when approaching important support, resistance, supply, demand, or other key areas.",
+    "advice": "Structural changes near important levels can be more meaningful than the same movement occurring in the middle of nowhere.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Check whether structure supports the bias",
+    "description": "Compare the current structural evidence with the directional bias established in the previous step.",
+    "advice": "If structure contradicts your existing bias, reassess the bias instead of forcing the chart to match your original idea.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Define structural invalidation",
+    "description": "Identify the price level or structural event that would invalidate your current structural interpretation.",
+    "advice": "Know exactly what would make your bullish, bearish, or ranging structure interpretation wrong.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Avoid over-labeling structure",
+    "description": "Make sure you are not marking every small fluctuation as a new structural high or low.",
+    "advice": "Use meaningful swings and consistent rules. Too many labels can make a simple market structure appear unnecessarily complicated.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "structure",
+    "title": "Finalize the structural direction",
+    "description": "Summarize the current structure as bullish, bearish, ranging, or unclear.",
+    "advice": "Write down the main structural evidence and the level that would invalidate your conclusion before moving to key areas.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Mark major support",
+    "description": "Identify price areas where buyers have previously shown strong interest or where price reacted upward.",
+    "advice": "Prioritize areas with multiple meaningful reactions rather than marking every small bounce as support.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Mark major resistance",
+    "description": "Identify price areas where sellers have previously shown strong interest or where price reacted downward.",
+    "advice": "Focus on significant rejection zones and repeated reactions.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Mark higher-timeframe levels",
+    "description": "Identify important support and resistance areas from Daily, 4H, and Weekly charts.",
+    "advice": "Higher-timeframe levels generally deserve more attention than minor intraday levels.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Mark previous day high",
+    "description": "Identify the previous trading day's high as a potential reaction and liquidity area.",
+    "advice": "Watch how price behaves when approaching or sweeping the previous day's high.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Mark previous day low",
+    "description": "Identify the previous trading day's low as a potential reaction and liquidity area.",
+    "advice": "Watch for rejection, breakout, or liquidity sweep behavior around the level.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Mark previous week high",
+    "description": "Identify the previous week's high as a higher-timeframe reference point.",
+    "advice": "Previous-week extremes can attract liquidity and produce meaningful reactions.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Mark previous week low",
+    "description": "Identify the previous week's low as a higher-timeframe reference point.",
+    "advice": "Use it as context for potential liquidity, rejection, or continuation.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Mark previous month high",
+    "description": "Identify the previous month's high as a major higher-timeframe reference.",
+    "advice": "Monthly extremes can be particularly important when price approaches them after a prolonged move.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Mark previous month low",
+    "description": "Identify the previous month's low as a major higher-timeframe reference.",
+    "advice": "Consider the level in relation to the current monthly and weekly structure.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Identify supply zones",
+    "description": "Find areas where strong selling previously caused price to move away aggressively.",
+    "advice": "Look for zones associated with meaningful displacement rather than every bearish candle.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Identify demand zones",
+    "description": "Find areas where strong buying previously caused price to move away aggressively.",
+    "advice": "Focus on zones that produced significant upward displacement.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Identify Order Blocks",
+    "description": "Mark potential institutional order-block areas according to your trading methodology.",
+    "advice": "Use order blocks in combination with structure, displacement, liquidity, and location rather than treating every candle as an order block.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Identify Fair Value Gaps",
+    "description": "Look for three-candle price imbalances created by strong directional movement.",
+    "advice": "Give greater importance to FVGs that appear with strong displacement and align with the broader market structure.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Check liquidity above highs",
+    "description": "Identify obvious highs where stop orders and breakout orders may be concentrated.",
+    "advice": "Equal highs, previous highs, and obvious swing highs can become important liquidity areas.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Check liquidity below lows",
+    "description": "Identify obvious lows where stop orders and breakout orders may be concentrated.",
+    "advice": "Equal lows, previous lows, and obvious swing lows can become important liquidity areas.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Check equal highs",
+    "description": "Identify multiple highs forming around approximately the same price.",
+    "advice": "Treat equal highs as potential liquidity rather than assuming they will automatically be broken.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Check equal lows",
+    "description": "Identify multiple lows forming around approximately the same price.",
+    "advice": "Treat equal lows as potential liquidity rather than assuming they will automatically be broken.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Mark psychological levels",
+    "description": "Identify important round-number price levels that traders may pay attention to.",
+    "advice": "Examples include major whole numbers and half numbers. Use them as supporting context, not automatic entry levels.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Check Fibonacci retracement levels",
+    "description": "Use Fibonacci retracement to identify potential reaction areas within a meaningful price swing.",
+    "advice": "Draw Fibonacci from a clearly defined swing and combine it with structure or other key areas.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Check Fibonacci confluence",
+    "description": "Determine whether Fibonacci levels overlap with existing support, resistance, or other important areas.",
+    "advice": "A Fibonacci level becomes more interesting when it aligns with independent structural evidence.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Mark session highs and lows",
+    "description": "Identify important highs and lows created during major trading sessions.",
+    "advice": "London and New York session extremes can become useful intraday reference points.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Mark Asian session range",
+    "description": "Identify the high and low of the Asian trading session when using session-based strategies.",
+    "advice": "The range can provide useful context for later London or New York price movement.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Check opening prices",
+    "description": "Mark relevant daily, weekly, or session opening prices.",
+    "advice": "Opening levels can provide useful reference points for understanding whether price is trading above or below an important period's open.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Check market gaps",
+    "description": "Identify significant gaps between one trading period's close and the next period's open.",
+    "advice": "Determine whether the gap is meaningful in the context of the instrument and timeframe rather than assuming every small gap matters.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Identify consolidation zones",
+    "description": "Mark areas where price spent significant time moving sideways before expanding.",
+    "advice": "Previous consolidation areas can become important reaction or decision zones when price returns.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Identify breakout levels",
+    "description": "Mark important boundaries where price may break out of an established range or structure.",
+    "advice": "Wait for actual price behavior around the level instead of assuming that a breakout will happen.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Check reclaimed levels",
+    "description": "Identify levels that price previously broke and later recovered or reclaimed.",
+    "advice": "A reclaimed level can sometimes change from resistance into support or support into resistance.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Check broken support and resistance",
+    "description": "Identify important levels that have recently been broken.",
+    "advice": "Observe whether the broken level is accepted beyond or quickly rejected back into the previous range.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Check price location within the range",
+    "description": "Determine whether price is near the upper, middle, or lower portion of its current meaningful range.",
+    "advice": "Location helps determine whether chasing a move is sensible or whether price is approaching an area where reaction is more likely.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Find confluence between key areas",
+    "description": "Look for multiple independent technical factors overlapping around the same price region.",
+    "advice": "Examples include support plus Fibonacci, liquidity plus resistance, or an order block plus FVG. More confluence can increase interest but does not guarantee a reaction.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Separate strong and weak levels",
+    "description": "Rank the marked areas according to their importance and supporting evidence.",
+    "advice": "Prioritize higher-timeframe levels, strong displacement origins, repeated reactions, and areas supported by multiple independent factors.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Avoid marking too many levels",
+    "description": "Remove unnecessary zones so the chart remains readable and decision-making stays focused.",
+    "advice": "If every price level is marked as important, none of them are truly important. Keep only the areas relevant to the current trade idea.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Check distance to the nearest key area",
+    "description": "Determine how much room price has before reaching the next important support, resistance, or liquidity area.",
+    "advice": "Avoid taking trades directly into nearby opposing key areas when there is insufficient room for the setup to develop.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Determine the reaction area",
+    "description": "Identify the specific zone where you would expect price to potentially react if your directional idea is correct.",
+    "advice": "Define the area before looking for an entry trigger so you are not chasing price after it has already moved.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Define invalidation around the key area",
+    "description": "Determine what price action would invalidate the importance of your selected area.",
+    "advice": "Know what would make you stop treating the zone as valid before price reaches it.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Identify the target area",
+    "description": "Determine the next meaningful area price could potentially move toward if the setup succeeds.",
+    "advice": "Potential targets can include liquidity, previous highs or lows, support, resistance, or other significant market areas.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Confirm key areas across timeframes",
+    "description": "Check whether an important area remains relevant when viewed across multiple timeframes.",
+    "advice": "A level that appears on several meaningful timeframes can provide stronger context than a level visible only on a very low timeframe.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "key-areas",
+    "title": "Finalize the key areas",
+    "description": "Reduce the chart to the most relevant support, resistance, liquidity, imbalance, and other important areas.",
+    "advice": "Before moving to trend confirmation, know where price is coming from, where it is now, and which areas could cause the next meaningful reaction.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Identify the current trend",
+    "description": "Determine whether the market is trending upward, trending downward, or moving sideways.",
+    "advice": "Start with the higher timeframe and identify the overall direction from the sequence of highs and lows.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Confirm higher highs and higher lows",
+    "description": "Confirm that bullish price action is producing a sequence of higher highs and higher lows.",
+    "advice": "Look for consistent bullish structure rather than calling the market bullish from a single upward move.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Confirm lower highs and lower lows",
+    "description": "Confirm that bearish price action is producing a sequence of lower highs and lower lows.",
+    "advice": "Look for repeated bearish structure rather than assuming every downward move represents a downtrend.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Check for a ranging market",
+    "description": "Determine whether price is moving sideways between relatively clear support and resistance areas.",
+    "advice": "If price repeatedly fails to establish new highs or lows, treat the market as ranging until structure clearly changes.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Check the higher timeframe trend",
+    "description": "Identify the broader trend before relying on a lower-timeframe setup.",
+    "advice": "Understand the higher-timeframe direction first, then determine whether your trading timeframe agrees with it.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Check the trading timeframe trend",
+    "description": "Confirm that the trend is present on the timeframe you are actually using for the setup.",
+    "advice": "Do not force a higher-timeframe trend onto a lower timeframe that is currently moving in the opposite direction.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Check trend strength",
+    "description": "Determine whether the current trend is moving with strong momentum or beginning to weaken.",
+    "advice": "Compare impulsive moves with pullbacks. Strong continuation with controlled pullbacks generally provides stronger trend conditions.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Check pullback quality",
+    "description": "Analyze how price behaves when it temporarily moves against the current trend.",
+    "advice": "Healthy trends often produce controlled pullbacks followed by continuation. Deep or aggressive pullbacks can indicate weakening momentum.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Check EMA direction",
+    "description": "Use the direction and slope of your selected EMA or EMAs as supporting trend information.",
+    "advice": "A clearly sloping EMA can support the trend direction, while a flat EMA often suggests weaker or ranging conditions.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Check EMA alignment",
+    "description": "Determine whether multiple EMAs are aligned in the same direction.",
+    "advice": "Aligned EMAs can support a directional trend, while tangled or repeatedly crossing EMAs can indicate uncertainty.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Check price reaction around the EMA",
+    "description": "Observe whether price is consistently respecting the EMA during pullbacks.",
+    "advice": "Repeated reactions around an EMA can support the trend thesis, but use price structure as the primary confirmation.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Check momentum",
+    "description": "Determine whether momentum is supporting the current directional movement.",
+    "advice": "Compare the strength and speed of recent impulses with previous moves to identify strengthening or weakening momentum.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Check for trend exhaustion",
+    "description": "Look for signs that the existing trend may be losing strength.",
+    "advice": "Watch for weaker continuation, increasingly deep pullbacks, failed breakouts, and repeated rejection around important areas.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Check for timeframe conflict",
+    "description": "Identify whether higher and lower timeframes are showing conflicting directional conditions.",
+    "advice": "When timeframes strongly disagree, reduce confidence and wait for clearer alignment rather than forcing a trade.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Check breakout continuation",
+    "description": "Determine whether price continues in the breakout direction after breaking an important high, low, or range.",
+    "advice": "A breakout followed by sustained continuation is more convincing than a breakout that immediately returns inside the previous structure.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Check for a false breakout",
+    "description": "Determine whether price briefly breaks a level before quickly returning through it.",
+    "advice": "A failed breakout can signal rejection and potential change in short-term direction, so do not assume every breakout will continue.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "trend-confirmation",
+    "title": "Finalize trend confirmation",
+    "description": "Reduce the trend analysis to one clear directional condition: bullish, bearish, ranging, or unclear.",
+    "advice": "Only move to entry confirmation when structure, momentum, timeframe context, and trend behavior provide a sufficiently clear picture.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Wait for price to reach the key area",
+    "description": "Confirm that price has reached the support, resistance, liquidity, imbalance, or other area identified during analysis.",
+    "advice": "Do not look for an entry in the middle of nowhere. Let price come to your planned area first.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check the reaction at the key area",
+    "description": "Observe how price behaves when it reaches the area of interest.",
+    "advice": "Look for rejection, acceptance, displacement, consolidation, or other meaningful price behavior before considering an entry.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Wait for confirmation",
+    "description": "Require your predefined entry confirmation instead of entering simply because price touched your level.",
+    "advice": "Define what confirmation means for your strategy before the trade. Avoid changing the requirement after price reaches the area.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check for rejection",
+    "description": "Determine whether price is being rejected from the area in the direction of your trade idea.",
+    "advice": "Look for meaningful rejection rather than treating every wick or small candle as confirmation.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check for displacement",
+    "description": "Look for a strong and decisive price movement away from the key area.",
+    "advice": "Strong displacement can provide evidence that one side of the market has gained control, especially when it aligns with your existing bias.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check for a structure shift",
+    "description": "Determine whether short-term market structure has changed in the expected direction.",
+    "advice": "Use a meaningful break or shift in structure as confirmation rather than relying on a single candle.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check candle confirmation",
+    "description": "Evaluate whether the candle behavior supports the intended direction at the entry area.",
+    "advice": "Consider engulfing candles, rejection candles, strong closes, and other patterns that are actually part of your strategy.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check momentum confirmation",
+    "description": "Confirm that momentum is supporting the intended direction at the time of entry.",
+    "advice": "Avoid entering when price is showing weak or conflicting momentum unless your strategy specifically targets that condition.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check volume confirmation",
+    "description": "Use volume information when it is relevant to your market and strategy.",
+    "advice": "Look for volume behavior that supports your interpretation of the move, but do not treat volume alone as an entry signal.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check breakout and retest",
+    "description": "Determine whether price has broken an important level and successfully retested it.",
+    "advice": "A clean breakout followed by a controlled retest can provide stronger confirmation than entering immediately on the first breakout candle.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check liquidity sweep",
+    "description": "Determine whether price has taken liquidity around a previous high, low, or obvious level before reversing.",
+    "advice": "A liquidity sweep becomes more meaningful when the reaction afterward aligns with your structure and directional bias.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check for confirmation from multiple factors",
+    "description": "Determine whether more than one independent confirmation supports the trade idea.",
+    "advice": "Prefer confluence between structure, key areas, price action, momentum, and other valid factors rather than relying on one signal.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check entry timeframe",
+    "description": "Confirm that the entry signal is valid on the timeframe you use for execution.",
+    "advice": "Use the higher timeframe for context and the execution timeframe for precise confirmation. Do not confuse the two.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check if the setup is already invalid",
+    "description": "Determine whether price has already moved too far or violated the conditions required for your setup.",
+    "advice": "If the original setup is gone, accept it and wait for another opportunity instead of forcing an entry.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check entry quality",
+    "description": "Evaluate whether the confirmation provides a clean and logical entry rather than a late or emotional entry.",
+    "advice": "Avoid chasing price after a large move. A valid setup can still become a poor entry if the risk-to-reward relationship has deteriorated.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Check invalidation before entering",
+    "description": "Know exactly what price behavior would prove the trade idea wrong.",
+    "advice": "Define your invalidation point before clicking buy or sell. If you cannot explain where the idea becomes invalid, the setup is not ready.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "entry-confirmation",
+    "title": "Finalize the entry confirmation",
+    "description": "Confirm that the planned area, market structure, price reaction, momentum, and entry trigger all agree with the trade idea.",
+    "advice": "Only proceed when your predefined confirmation rules are satisfied. If confirmation is missing, waiting is the correct action.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "pattern-recognition",
+    "title": "Identify the dominant chart pattern",
+    "description": "Look for clear price patterns such as triangles, flags, wedges, channels, double tops, double bottoms, and other recognizable formations.",
+    "advice": "Only consider patterns that are clearly visible and properly formed. A pattern should support the broader market structure rather than being forced onto random price movement.",
+    "link": "[https://www.tradingview.com/](https://www.tradingview.com/)"
+  },
+  {
+    "category": "pattern-recognition",
+    "title": "Check the pattern location",
+    "description": "Determine where the pattern is forming relative to support, resistance, liquidity, trend, and other key areas.",
+    "advice": "A pattern forming at a meaningful location is generally more useful than the same pattern appearing in the middle of nowhere.",
+    "link": "[https://www.tradingview.com/](https://www.tradingview.com/)"
+  },
+  {
+    "category": "pattern-recognition",
+    "title": "Check the pattern structure",
+    "description": "Make sure the pattern has clear boundaries, recognizable swing points, and logical price behavior.",
+    "advice": "If you need to heavily manipulate trendlines or ignore several price swings to make the pattern fit, the pattern may not be reliable.",
+    "link": "[https://www.tradingview.com/](https://www.tradingview.com/)"
+  },
+  {
+    "category": "pattern-recognition",
+    "title": "Check for a breakout or rejection",
+    "description": "Observe whether price breaks the pattern, rejects its boundary, or continues to consolidate inside it.",
+    "advice": "Wait for price to show what it is actually doing instead of assuming the pattern will resolve in a particular direction.",
+    "link": "[https://www.tradingview.com/](https://www.tradingview.com/)"
+  },
+  {
+    "category": "pattern-recognition",
+    "title": "Check for confirmation",
+    "description": "Look for supporting evidence such as a strong close, market-structure shift, momentum, volume, or reaction from a key area.",
+    "advice": "Use pattern recognition as one part of the setup. Stronger trades usually have multiple pieces of evidence pointing in the same direction.",
+    "link": "[https://www.tradingview.com/](https://www.tradingview.com/)"
+  },
+  {
+    "category": "pattern-recognition",
+    "title": "Check for false breakouts",
+    "description": "Determine whether price has briefly moved beyond a pattern boundary but failed to continue.",
+    "advice": "A breakout is not confirmed simply because price crosses a trendline or level. Watch how price closes and behaves afterward.",
+    "link": "[https://www.tradingview.com/](https://www.tradingview.com/)"
+  },
+  {
+    "category": "pattern-recognition",
+    "title": "Check volume when available",
+    "description": "Use volume to evaluate whether a breakout or major price movement is supported by increased participation.",
+    "advice": "Volume can provide useful confirmation, but it should not override price structure or your broader trading plan.",
+    "link": "[https://www.tradingview.com/](https://www.tradingview.com/)"
+  },
+  {
+    "category": "pattern-recognition",
+    "title": "Check multiple timeframes",
+    "description": "Compare the pattern with the higher-timeframe and lower-timeframe price structure.",
+    "advice": "A pattern on a lower timeframe can be less meaningful if it directly conflicts with a strong higher-timeframe structure.",
+    "link": "[https://www.tradingview.com/](https://www.tradingview.com/)"
+  },
+  {
+    "category": "pattern-recognition",
+    "title": "Check the expected pattern target",
+    "description": "Estimate where price could reasonably travel if the pattern completes successfully.",
+    "advice": "A pattern is more useful when its potential movement provides enough room for a logical trade relative to your risk.",
+    "link": "[https://www.tradingview.com/](https://www.tradingview.com/)"
+  },
+  {
+    "category": "pattern-recognition",
+    "title": "Check the invalidation point",
+    "description": "Identify the price level or behavior that would prove the pattern is no longer valid.",
+    "advice": "Know exactly what would invalidate the pattern before entering. If there is no clear invalidation point, the setup may not be well defined.",
+    "link": "[https://www.tradingview.com/](https://www.tradingview.com/)"
+  },
+  {
+    "category": "pattern-recognition",
+    "title": "Avoid forcing patterns",
+    "description": "Make sure the pattern is obvious enough that another trader could reasonably identify the same structure.",
+    "advice": "If you have to convince yourself that a pattern exists, treat it as weak or ignore it.",
+    "link": "[https://www.tradingview.com/](https://www.tradingview.com/)"
+  },
+  {
+    "category": "pattern-recognition",
+    "title": "Check whether the pattern supports the trade idea",
+    "description": "Compare the pattern direction with your market bias, structure, key areas, and planned entry.",
+    "advice": "The pattern should add confluence to the setup rather than being the only reason for taking the trade.",
+    "link": "[https://www.tradingview.com/](https://www.tradingview.com/)"
+  },
+  {
+    "category": "confluences",
+    "title": "Confirm multiple factors agree",
+    "description": "Check whether several independent pieces of analysis support the same trade direction.",
+    "advice": "Look for agreement between market bias, structure, key areas, trend, entry confirmation, and other relevant factors instead of relying on one signal.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "confluences",
+    "title": "Check higher-timeframe alignment",
+    "description": "Compare the current setup with the direction and structure visible on higher timeframes.",
+    "advice": "A setup generally becomes more meaningful when the lower-timeframe opportunity makes sense within the higher-timeframe context.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "confluences",
+    "title": "Check market structure alignment",
+    "description": "Determine whether BOS, CHoCH, swing highs, swing lows, and other structural information support the trade.",
+    "advice": "Don't treat a single structure break as enough confirmation. Consider the surrounding price action and overall structure.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "confluences",
+    "title": "Check key-area confluence",
+    "description": "Determine whether the setup is occurring at an important support, resistance, supply, demand, liquidity, order block, or imbalance area.",
+    "advice": "A technical signal occurring at a meaningful location is generally more useful than the same signal appearing in an arbitrary area.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "confluences",
+    "title": "Check trend alignment",
+    "description": "Compare the trade direction with the current trend and momentum.",
+    "advice": "When trading with the trend, look for entries that allow you to participate in the existing directional movement rather than fighting it without a strong reason.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "confluences",
+    "title": "Check price-action confirmation",
+    "description": "Look for rejection, engulfing candles, displacement, breakouts, retests, or other meaningful price-action behavior.",
+    "advice": "Use price action to confirm that buyers or sellers are actually responding at the area you identified.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "confluences",
+    "title": "Check liquidity conditions",
+    "description": "Consider whether liquidity has been taken, is resting near the setup, or could influence the next price movement.",
+    "advice": "Understand where obvious stops and liquidity may be located before assuming price will move directly toward your target.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "confluences",
+    "title": "Check Fibonacci confluence",
+    "description": "Use Fibonacci retracement or extension levels to determine whether they overlap with important technical areas.",
+    "advice": "Fibonacci becomes more useful when its levels overlap with structure, support/resistance, or other meaningful areas.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "confluences",
+    "title": "Check volume confluence",
+    "description": "Use volume to evaluate whether important price movements or breakouts have meaningful participation behind them.",
+    "advice": "Volume can strengthen a setup when it agrees with price action, but it should not be treated as a standalone signal.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "confluences",
+    "title": "Check indicator agreement",
+    "description": "If indicators are part of your strategy, determine whether EMA, RSI, MACD, or other tools support the price-action analysis.",
+    "advice": "Use indicators as supporting evidence rather than stacking many indicators that measure essentially the same thing.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "confluences",
+    "title": "Check session confluence",
+    "description": "Consider whether the setup is forming during a session or session overlap that normally provides suitable liquidity and activity for your strategy.",
+    "advice": "A setup can behave differently depending on when it forms. Consider session conditions before giving the setup additional weight.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "confluences",
+    "title": "Check macro alignment",
+    "description": "Compare the technical setup with important news, economic conditions, DXY, Gold, and broader market sentiment when relevant.",
+    "advice": "Macro information should provide context and risk awareness rather than forcing a technical trade in one direction.",
+    "link": "https://www.forexfactory.com/calendar"
+  },
+  {
+    "category": "confluences",
+    "title": "Check for conflicting signals",
+    "description": "Look for evidence that contradicts your trade idea before entering.",
+    "advice": "Don't only search for reasons to enter. Actively look for reasons why the setup could fail.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "confluences",
+    "title": "Avoid counting the same signal twice",
+    "description": "Determine whether your confluences are genuinely independent or simply different ways of describing the same market condition.",
+    "advice": "Five indicators pointing in the same direction do not necessarily provide five independent confirmations.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "confluences",
+    "title": "Check overall setup quality",
+    "description": "Combine the strongest evidence and decide whether the setup is clear, mixed, or weak.",
+    "advice": "Good confluence should make the trade idea clearer. If adding more analysis only makes the decision more confusing, step back and reassess.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "risk-management",
+    "title": "Define the maximum risk",
+    "description": "Decide how much of your account you are willing to lose if the trade reaches its invalidation point.",
+    "advice": "Set the risk before calculating your position size. Keep the amount small enough that one losing trade does not significantly affect your ability to continue trading.",
+    "link": "https://www.babypips.com/learn/forex/position-sizing"
+  },
+  {
+    "category": "risk-management",
+    "title": "Set the stop-loss level",
+    "description": "Identify the price level where your trade idea becomes invalid.",
+    "advice": "Place the stop based on market structure and trade invalidation rather than choosing an arbitrary distance from the entry.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "risk-management",
+    "title": "Calculate position size",
+    "description": "Determine the appropriate position size using your account balance, risk amount, entry price, and stop-loss distance.",
+    "advice": "Calculate position size after defining your stop and maximum risk. Do not increase the position simply because the setup looks highly confident.",
+    "link": "https://www.myfxbook.com/forex-calculators/position-size"
+  },
+  {
+    "category": "risk-management",
+    "title": "Check risk-to-reward",
+    "description": "Compare the amount you could lose with the realistic amount you could potentially gain.",
+    "advice": "Make sure the potential reward justifies the risk and that your target is supported by actual market structure rather than an arbitrary ratio.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "risk-management",
+    "title": "Define the profit target",
+    "description": "Determine where you expect the trade idea to reach a meaningful objective.",
+    "advice": "Use key areas, liquidity, structure, or other logical price objectives when selecting your target.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "risk-management",
+    "title": "Check stop-loss placement",
+    "description": "Make sure your stop is positioned beyond the level that would genuinely invalidate your setup.",
+    "advice": "Avoid placing stops so close that normal market noise can remove you from a valid setup, but don't widen the stop simply to avoid taking a loss.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "risk-management",
+    "title": "Check spread and trading costs",
+    "description": "Consider spread, commission, swaps, and other trading costs before entering.",
+    "advice": "Make sure transaction costs are reasonable relative to the expected movement of the trade, especially when using tight stops or short-term strategies.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "risk-management",
+    "title": "Check news risk",
+    "description": "Determine whether upcoming economic events could create abnormal volatility or slippage.",
+    "advice": "Know whether major news is approaching and decide in advance whether your strategy allows holding the position through it.",
+    "link": "https://www.forexfactory.com/calendar"
+  },
+  {
+    "category": "risk-management",
+    "title": "Check correlation risk",
+    "description": "Identify whether multiple open trades are exposed to the same currency, index, commodity, or market factor.",
+    "advice": "Several positions that look different can still represent one large directional bet if they are strongly correlated.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "risk-management",
+    "title": "Check total account exposure",
+    "description": "Review all current positions and pending orders before opening another trade.",
+    "advice": "Consider your combined exposure instead of evaluating every trade independently.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "risk-management",
+    "title": "Define the invalidation condition",
+    "description": "Clearly identify what must happen for your original trade thesis to become wrong.",
+    "advice": "Know your invalidation before entering. Once the thesis is invalidated, don't move the stop simply because you want the trade to survive.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "risk-management",
+    "title": "Plan the trade before entering",
+    "description": "Define entry, stop-loss, target, position size, and maximum risk before executing the trade.",
+    "advice": "A complete plan reduces emotional decisions after the position is already open.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "risk-management",
+    "title": "Define the maximum daily loss",
+    "description": "Set a personal limit for how much you are willing to lose during one trading day.",
+    "advice": "Once your daily loss limit is reached, stop trading and review your decisions instead of trying to recover the loss immediately.",
+    "link": "https://www.babypips.com/learn/forex/risk-management"
+  },
+  {
+    "category": "risk-management",
+    "title": "Check for revenge trading",
+    "description": "Determine whether the current trade is being taken because of a previous loss or emotional reaction.",
+    "advice": "A new trade should have its own independent setup and risk plan. Previous losses should not determine the size or direction of the next trade.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "risk-management",
+    "title": "Check whether the trade is worth taking",
+    "description": "Evaluate the setup, risk, reward, market conditions, and potential invalidation together.",
+    "advice": "If the risk is unclear, the target is unrealistic, or the position size is uncomfortable, skipping the trade is a valid risk-management decision.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "psychology",
+    "title": "Check my emotional state",
+    "description": "Assess whether you are calm, focused, and able to follow your trading plan objectively.",
+    "advice": "Trade when you are mentally prepared to accept either outcome. If you feel angry, anxious, excited, or desperate to make money, step away before entering.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "psychology",
+    "title": "Check for fear of missing out",
+    "description": "Determine whether you want to enter because the setup is valid or because price is moving quickly without you.",
+    "advice": "A missed trade is better than a forced trade. Wait for your planned conditions instead of chasing price.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "psychology",
+    "title": "Check for revenge trading",
+    "description": "Make sure the trade is not an attempt to recover a previous loss quickly.",
+    "advice": "Treat every trade as a new decision. Never increase risk simply because the previous trade lost.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "psychology",
+    "title": "Check for overconfidence",
+    "description": "Assess whether recent winning trades are making you more aggressive or careless.",
+    "advice": "A winning streak does not guarantee that the next trade will win. Keep the same rules and risk management regardless of recent results.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "psychology",
+    "title": "Accept the possibility of loss",
+    "description": "Accept that even a high-quality setup can fail.",
+    "advice": "Before entering, mentally accept the planned loss. If the potential loss feels unacceptable, reduce the risk or skip the trade.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "psychology",
+    "title": "Check whether I am forcing the setup",
+    "description": "Determine whether you are searching for reasons to enter after already deciding that you want the trade.",
+    "advice": "Analyze the chart objectively. If the setup is not clear, don't manufacture confluence just to justify an entry.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "psychology",
+    "title": "Check my attachment to the trade",
+    "description": "Make sure you are willing to exit if the original trade idea becomes invalid.",
+    "advice": "Your position should never become more important than your trading plan. Be prepared to accept that your analysis can be wrong.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "psychology",
+    "title": "Check for impatience",
+    "description": "Determine whether you are entering because you are tired of waiting for your setup.",
+    "advice": "The market does not owe you a trade. Wait for your conditions instead of lowering your standards because nothing has happened yet.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "psychology",
+    "title": "Check for hesitation",
+    "description": "Determine whether fear is preventing you from taking a valid setup that meets your predefined rules.",
+    "advice": "If the setup meets your plan and the risk is acceptable, execute according to your system rather than trying to guarantee the outcome.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "psychology",
+    "title": "Check for impulsive trading",
+    "description": "Make sure the trade was planned rather than triggered by a sudden candle, headline, social-media post, or emotional reaction.",
+    "advice": "Pause before entering and run through your checklist. If you cannot explain why the trade qualifies, don't take it.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "psychology",
+    "title": "Check my need to be right",
+    "description": "Separate being correct about the market from following a profitable trading process.",
+    "advice": "Your job is not to prove your prediction correct. Your job is to manage risk and respond to what price actually does.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "psychology",
+    "title": "Check whether I am moving my rules",
+    "description": "Identify whether you are changing your entry, stop, target, or risk rules simply because the trade is not behaving as expected.",
+    "advice": "Do not rewrite your plan after entering just to avoid taking the planned loss.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "psychology",
+    "title": "Check my trading frequency",
+    "description": "Review whether you are taking more trades than your strategy normally produces.",
+    "advice": "More trades do not automatically mean more opportunities. Avoid entering marginal setups simply because you want to stay active.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "psychology",
+    "title": "Check my focus",
+    "description": "Make sure you can actively monitor and manage the trade without unnecessary distractions.",
+    "advice": "Avoid trading when you are distracted, exhausted, rushed, or unable to follow your planned management rules.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "psychology",
+    "title": "Accept that no trade is also a decision",
+    "description": "Recognize that staying out is a valid outcome when the setup does not meet your conditions.",
+    "advice": "You do not need to participate in every market movement. Protecting your capital and waiting for a better opportunity is part of the process.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "final-decision",
+    "title": "Confirm the market bias",
+    "description": "Make sure the overall directional bias is clear and supported by your analysis.",
+    "advice": "You should be able to explain why you favor bullish, bearish, or neutral conditions without relying on a single signal.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "final-decision",
+    "title": "Confirm the market structure",
+    "description": "Verify that the current structure supports the trade direction and that there is no major structural conflict.",
+    "advice": "Identify the important swing points and know what price action would invalidate your structural thesis.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "final-decision",
+    "title": "Confirm the key area",
+    "description": "Make sure the planned entry is occurring at a meaningful support, resistance, liquidity, supply, demand, or other key area.",
+    "advice": "Avoid entering simply because price is moving. Know why the current location matters.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "final-decision",
+    "title": "Confirm the trend",
+    "description": "Check whether the current trend and momentum support your intended direction.",
+    "advice": "If you are trading against the dominant trend, require stronger evidence and a clear reason for doing so.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "final-decision",
+    "title": "Confirm the entry trigger",
+    "description": "Make sure the specific condition required by your strategy has actually occurred.",
+    "advice": "Do not enter simply because the price has reached your area. Wait for your predefined entry confirmation.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "final-decision",
+    "title": "Confirm the confluence",
+    "description": "Review whether multiple independent factors support the same trade idea.",
+    "advice": "Strong confluence should make the setup clearer. Avoid counting several indicators that are essentially measuring the same thing as separate confirmations.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "final-decision",
+    "title": "Check for conflicting information",
+    "description": "Actively search for evidence that contradicts your trade idea.",
+    "advice": "Do not only look for reasons to enter. Ask yourself what could make this trade fail before committing capital.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "final-decision",
+    "title": "Check the news environment",
+    "description": "Review upcoming economic events and determine whether news could interfere with the setup.",
+    "advice": "If major news is approaching, decide whether your strategy supports trading before or through the event.",
+    "link": "https://www.forexfactory.com/calendar"
+  },
+  {
+    "category": "final-decision",
+    "title": "Confirm the stop-loss",
+    "description": "Identify the exact level where the trade thesis becomes invalid.",
+    "advice": "Your stop should have a logical reason based on the setup. Never enter without knowing where you are wrong.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "final-decision",
+    "title": "Confirm the take-profit",
+    "description": "Identify a realistic target based on structure, liquidity, key areas, or other logical market objectives.",
+    "advice": "Do not choose a target only because it produces an attractive risk-to-reward ratio. The market should provide a reasonable path toward it.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "final-decision",
+    "title": "Confirm the risk-to-reward",
+    "description": "Compare the planned risk with the realistic potential reward of the setup.",
+    "advice": "If the potential reward does not justify the risk, skip the trade rather than forcing the setup.",
+    "link": "https://www.myfxbook.com/forex-calculators/position-size"
+  },
+  {
+    "category": "final-decision",
+    "title": "Confirm the position size",
+    "description": "Make sure the position size matches your predefined account risk and stop-loss distance.",
+    "advice": "Calculate position size from risk first. Do not increase your position because you feel especially confident about the setup.",
+    "link": "https://www.myfxbook.com/forex-calculators/position-size"
+  },
+  {
+    "category": "final-decision",
+    "title": "Check my psychological state",
+    "description": "Make sure you are calm enough to execute and manage the trade according to your plan.",
+    "advice": "If you are experiencing FOMO, revenge trading, fear, greed, or a strong need to recover losses, do not force the trade.",
+    "link": "https://www.babypips.com/learn/forex/trading-psychology"
+  },
+  {
+    "category": "final-decision",
+    "title": "Ask whether I am forcing the trade",
+    "description": "Take a final step back and determine whether the setup genuinely meets your rules.",
+    "advice": "If you need to make excuses, reinterpret your rules, or search aggressively for additional confirmation, the setup may not be ready.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "final-decision",
+    "title": "Define the exact trade plan",
+    "description": "Write down the entry, stop-loss, take-profit, position size, risk, and invalidation condition before execution.",
+    "advice": "If you cannot clearly describe the trade before entering, you probably do not have a complete setup.",
+    "link": "https://www.tradingview.com/"
+  },
+  {
+    "category": "final-decision",
+    "title": "Make the final decision",
+    "description": "After completing the analysis, choose one clear action: buy, sell, or no trade.",
+    "advice": "Do not create a trade simply because the checklist is complete. The final decision should be based on the quality of the complete setup. No trade is a valid decision.",
+    "link": "https://www.tradingview.com/"
+  }
+]

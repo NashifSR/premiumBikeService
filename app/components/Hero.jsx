@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const Hero = () => {
@@ -20,13 +21,19 @@ const Hero = () => {
           </p>
 
           <div className="flex gap-4 pt-4">
-            <button className="rounded-lg bg-zinc-900 px-6 py-3 text-white transition hover:bg-zinc-800">
+            <Link
+              href="/gallery"
+              className="rounded-lg bg-zinc-900 px-6 py-3 text-white transition hover:bg-zinc-800"
+            >
               View Gallery
-            </button>
+            </Link>
 
-            <button className="rounded-lg border border-zinc-300 px-6 py-3 transition hover:bg-zinc-100">
+            <Link
+              href="/contact"
+              className="rounded-lg border border-zinc-300 px-6 py-3 transition hover:bg-zinc-100"
+            >
               Contact Us
-            </button>
+            </Link>
           </div>
         </div>
 
@@ -40,7 +47,7 @@ const Hero = () => {
         </div>
       </div>
     </section>
-    
+
   );
 };
 

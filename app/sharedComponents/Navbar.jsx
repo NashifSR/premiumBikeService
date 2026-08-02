@@ -12,7 +12,7 @@ const Navbar = () => {
 
         {/* Logo */}
         <Link
-          href="/"
+          href="/blog"
           className="text-2xl font-bold tracking-tight text-zinc-900"
         >
           Garage<span className="text-zinc-400">.</span>
@@ -65,6 +65,19 @@ const Navbar = () => {
 
         {/* Actions */}
         <div className="flex items-center gap-3">
+          {
+            user ?
+
+              <Link
+                href="/trading"
+                className="text-zinc-700 transition hover:text-zinc-400"
+              >
+                Trading
+              </Link>
+              :
+              <>
+              </>
+          }
 
           {/* WhatsApp */}
           <a

@@ -69,9 +69,9 @@ const Footer = () => {
           </h3>
 
           <div className="space-y-3 text-sm text-zinc-600">
-            <p>+880 1XXX-XXXXXX</p>
-            <p>info@garage.com</p>
-            <p>Dhaka, Bangladesh</p>
+            <p>+880 1977 200108</p>
+            <p>auddinnajma@gmail.com</p>
+            <p>Tangail, Bangladesh</p>
           </div>
         </div>
       </div>
@@ -79,10 +79,10 @@ const Footer = () => {
       {/* Bottom */}
       <div className="border-t border-zinc-200">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-3 px-6 py-6 text-sm text-zinc-500 md:flex-row">
-          <p>© {new Date().getFullYear()} Garage. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Premium Bike Service. All rights reserved.</p>
 
           <p>
-            Designed & Developed with ❤️
+            Designed & Developed by FrameHouse Creative
           </p>
         </div>
       </div>

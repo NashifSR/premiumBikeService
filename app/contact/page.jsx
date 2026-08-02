@@ -56,7 +56,7 @@ const Contact = () => {
                 href="mailto:ashraf_aps@garage.com"
                 className="mt-3 block text-2xl font-semibold text-zinc-900 transition hover:text-blue-600"
               >
-                ashraf_aps@garage.com
+                ashraf_aps@yahoo.com
               </a>
             </div>
             <div>
@@ -76,9 +76,9 @@ const Contact = () => {
                 Opening Hours
               </h3>
               <p className="mt-3 text-lg text-zinc-600">
-                Saturday - Thursday
+                Saturday - Friday, 7 days a week
                 <br />
-                8:00 AM - 8:00 PM
+                8:00 AM - 9:00 PM
               </p>
             </div>
           </div>

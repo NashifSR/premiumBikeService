@@ -4,8 +4,10 @@ import { useAuth } from "./AuthContext";
 import { Loader2, Lock, ShieldCheck } from "lucide-react";
 
 const ALLOWED_EMAILS = [
+  "a.nashif7@gmail.com",
   "sr.nashif@gmail.com",
-  "father@gmail.com",
+  "auddinnajma@gmail.com",
+  "ahmed.ashiq256@gmail.com"
 ];
 
 export default function AuthGuard({ children }) {

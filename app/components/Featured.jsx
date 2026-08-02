@@ -49,10 +49,10 @@ const Featured = () => {
             </p>
 
             <Link
-              href="/projects/honda-cbr150-engine-rebuild"
+              href="/blog"
               className="mt-8 inline-flex w-fit items-center rounded-lg bg-zinc-900 px-6 py-3 font-medium text-white transition hover:bg-zinc-800"
             >
-              Read Project →
+              Read More Project →
             </Link>
           </div>
         </article>
