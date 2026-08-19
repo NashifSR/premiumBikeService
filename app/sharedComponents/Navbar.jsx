@@ -69,6 +69,19 @@ const Navbar = () => {
             user ?
 
               <Link
+                href="/digitalMarketing"
+                className="text-zinc-700 transition hover:text-zinc-400"
+              >
+                Digital Marketing
+              </Link>
+              :
+              <>
+              </>
+          }
+          {
+            user ?
+
+              <Link
                 href="/trading"
                 className="text-zinc-700 transition hover:text-zinc-400"
               >
