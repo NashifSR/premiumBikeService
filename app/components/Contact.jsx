@@ -16,7 +16,7 @@ const Contact = () => {
 
           <p className="max-w-lg leading-relaxed text-zinc-300">
             Whether you need routine servicing, repairs, or just want to discuss
-            your motorcycle, we're always happy to help. Stop by the workshop or
+            your motorcycle, we're always ready to help. Stop by the workshop or
             get in touch using the information below.
           </p>
         </div>
@@ -27,14 +27,14 @@ const Contact = () => {
             <h3 className="mb-2 text-sm font-semibold uppercase tracking-widest text-zinc-400">
               Phone
             </h3>
-            <p className="text-lg">+880 1XXX-XXXXXX</p>
+            <p className="text-lg">+880 1711 200108</p>
           </div>
 
           <div>
             <h3 className="mb-2 text-sm font-semibold uppercase tracking-widest text-zinc-400">
               Email
             </h3>
-            <p className="text-lg">info@garage.com</p>
+            <p className="text-lg">ashraf_aps@garage.com</p>
           </div>
 
           <div>
@@ -42,9 +42,9 @@ const Contact = () => {
               Address
             </h3>
             <p className="text-lg">
-              Your Workshop Address
+              Latifpur Bazar, Latifpur
               <br />
-              City, Bangladesh
+              Mirzapur, Tangail, Bangladesh
             </p>
           </div>
 
@@ -55,12 +55,14 @@ const Contact = () => {
             <p className="text-lg">
               Saturday – Thursday
               <br />
-              9:00 AM – 8:00 PM
+              8:00 AM – 8:00 PM
             </p>
           </div>
 
           <a
-            href="#"
+            href="https://maps.google.com/?q=Latifpur+Bazar,+Latifpur,+Mirzapur,+Tangail"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex rounded-lg bg-white px-6 py-3 font-medium text-zinc-900 transition hover:bg-zinc-200"
           >
             Get Directions

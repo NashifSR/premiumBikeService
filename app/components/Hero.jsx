@@ -12,12 +12,13 @@ const Hero = () => {
           </p>
 
           <h1 className="text-5xl font-bold leading-tight tracking-tight text-zinc-900 md:text-6xl">
-            We treat every bike like it's our own.
+            Reliable Maintenance. Straightforward Work.
           </h1>
 
           <p className="text-lg leading-relaxed text-zinc-600">
-            From routine servicing to complete engine rebuilds, we take pride in
-            delivering reliable workmanship and honest service.
+            From routine servicing to engine repairs, our workshop delivers 
+            practical mechanical care and honest pricing to keep your motorcycle 
+            running dependably.
           </p>
 
           <div className="flex gap-4 pt-4">
@@ -47,7 +48,6 @@ const Hero = () => {
         </div>
       </div>
     </section>
-
   );
 };
 

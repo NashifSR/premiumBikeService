@@ -12,7 +12,7 @@ const Featured = () => {
           </p>
 
           <h2 className="mt-3 text-4xl font-bold tracking-tight text-zinc-900">
-            A Story Worth Sharing
+            A Closer Look At Our Work
           </h2>
         </div>
 
@@ -42,17 +42,17 @@ const Featured = () => {
             </p>
 
             <p className="mt-6 text-lg leading-8 text-zinc-600">
-              A complete teardown, inspection, and rebuild of a Honda CBR150R
-              engine after severe internal wear. The project included replacing
-              worn components, tuning the engine, and restoring the bike to
-              peak performance.
+              A complete teardown, precise mechanical inspection, and rebuild of a
+              Honda CBR150R engine handling internal wear. The project involved 
+              replacing necessary components, careful tuning, and restoring dependable 
+              performance for the road.
             </p>
 
             <Link
               href="/blog"
               className="mt-8 inline-flex w-fit items-center rounded-lg bg-zinc-900 px-6 py-3 font-medium text-white transition hover:bg-zinc-800"
             >
-              Read More Project →
+              Read Full Project →
             </Link>
           </div>
         </article>

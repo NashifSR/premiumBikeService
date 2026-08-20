@@ -8,9 +8,9 @@ const Contact = () => {
   );
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`;
 
-  // Google Maps search query based on the address
+  // Google Maps search query using exact coordinates
   const googleMapsUrl =
-    "https://www.google.com/maps/search/?api=1&query=Latifpur+Bazar+Mirzapur+Tangail+Bangladesh";
+    "https://www.google.com/maps/search/?api=1&query=24.118361,90.146861";
 
   return (
     <main className="min-h-screen bg-zinc-50">
@@ -53,7 +53,7 @@ const Contact = () => {
                 Email
               </h3>
               <a
-                href="mailto:ashraf_aps@garage.com"
+                href="mailto:ashraf_aps@yahoo.com"
                 className="mt-3 block text-2xl font-semibold text-zinc-900 transition hover:text-blue-600"
               >
                 ashraf_aps@yahoo.com
@@ -120,7 +120,7 @@ const Contact = () => {
           <div className="overflow-hidden rounded-3xl bg-zinc-200 shadow-lg">
             <iframe
               title="Workshop Location Map"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3648.4!2d90.09!3d24.11!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjTCsDA2JzM2LjAiTiA5MMKwMDUnMjQuMCJF!5e0!3m2!1sen!2sbd!4v1650000000000!5m2!1sen!2sbd"
+              src="https://maps.google.com/maps?q=24.118361,90.146861&z=16&output=embed"
               width="100%"
               height="450"
               style={{ border: 0 }}
